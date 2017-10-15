@@ -1,0 +1,81 @@
+body{
+	background: rgb(245,245,245);
+	font-size:15px;
+	font-family: Helvetica, sans-serif;
+	margin:0;
+}
+
+h1{
+	font-family: Helvetica, serif;
+	color:black;
+	font-size:100px;
+	opacity: 1;
+	display: block;
+}
+
+h2{
+	font-family: Helvetica, serif;
+	color: red;
+	font-weight: lighter;
+	font-size: 30px;
+}
+
+a {
+  color: pink;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner {background-image: url(images/drawmylife.png);
+  background-size: cover;
+  padding:150px ;
+  text-align: center; 
+  text-shadow: 1px 2 px 3 px black;
+  text-decoration-color: pink;
+}
+
+#banner p {color:black;
+	font-size: 50px;
+}
+
+#banner a {font-size: 20px;
+}
+
+.opacNormal {opacity:.6 ; -moz-opacity:.6; -ms-filter:'alpha(opacity=60)'; filter:alpha(opacity);
+}
+
+.card {text-align: center;
+  padding: 40px;
+  background-color: rgb(245,245,245);
+}
+
+
+.wuf-adv { padding:50px; 
+	background-color: rgb(245,245,245);
+}
+
+.wufoo-q14m5uke1l0g41u {padding: 50px;
+	background-color: rgb(245,245,245);
+}
+
+.container {background-color: rgb(245,245,245);}
+
+.row {background-color: rgb(245,245,245);}
+
+#footer {
+	background-color: grey;
+	color: white;
+	padding: 10px;
+	line-height: 30px;
+}
+
+#footer a{ 
+  color:pink; 
+  font-size: 20px; 
+ }
+
+#footer a:hover {
+  color: red;}
